@@ -1,1 +1,2 @@
 TT    MaSV    Họ tên    Ngày sinh 
+1    18574802010054  Nguyễn Đức ngọc   11/02/2000
